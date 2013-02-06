@@ -1,0 +1,33 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#header {
+	background-color: #303030;
+	
+}
+
+#header nav {
+	float: left;
+}
+
+
+#bar{
+	
+}
+
+#bar li {
+	float: left;
+}
+
+
+#textpad{
+	float: left;
+	height: 320px;
+}
+
+#parserpad{
+	float: left;
+	height: 320px;
+}
